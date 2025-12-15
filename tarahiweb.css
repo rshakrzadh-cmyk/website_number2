@@ -1,0 +1,26 @@
+  nav {
+    margin-bottom: 15px;
+    }
+.highlight {
+    font-weight: bold;
+}
+#special {
+    font-size: 14px;
+}
+body{
+    background: linear-gradient(45deg,aqua,magenta);
+    font-family: Tahoma;
+}
+.aks{
+    border-radius: 20%;
+    width: 200px;
+}
+.matn{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.animation{
+    transition: 2s;
+}
+.animation:hover{
+    font-size: 30px;
+}
